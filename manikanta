@@ -1,0 +1,14 @@
+#include<studio.h>
+Void main()
+int b1,be,e=0,f;
+Scanf("%d %d",&a1,&a2);
+f=100-b2;
+b2=f
+While(x>0)
+{
+e=e+b1;
+b1=(b2*b1)/100;
+}
+Printf("%d",c);
+return 0;
+}
